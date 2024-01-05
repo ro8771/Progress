@@ -2,6 +2,14 @@
 I will be charting my learning progress here.
 
 <br></br>
+<em> 5th January 2024 </em>
+- Made more headway. Learned about more advanced DOM, which included event propagation (bubbling, capturing, etc.), traversal, etc. Also learned about the Intersection Observer API.
+- Then, learned about Object-oriented Programming (OOP) in JS. Got to know about prototypes, prototypal inheritance, chaining, constructor functions, ES6 classes and Object.create().
+- Learned about Promises and Async-await.
+- With all of this, I have finished 17 sections of this 18-section course by Jonas. The final section involves building a complete and complex modern JS application which will use all of the concepts 
+that have been covered so far. I will code along with Jonas, and will try to understand everything along the way. I'm sure it'll be a good, dense learning experience. 
+
+<br></br>
 <em> 15th December 2023 </em>
 - Got busy with college work but still managed to cover a lot more ground in the course. Got done with multiple sections and also coded along a nice, minimalist banking application.
 - Section 8 of the course consisted of understanding some behind-the-scenes Javascript fundamentals, which included the JS Engine and Runtime, the call stack, scoping, etc.
